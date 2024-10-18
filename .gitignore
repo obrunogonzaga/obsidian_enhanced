@@ -83,4 +83,5 @@ coverage.xml
 .env
 
 # Assets Folder
-_videos
+_videos/*
+_audios/*
